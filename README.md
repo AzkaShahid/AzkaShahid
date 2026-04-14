@@ -34,13 +34,13 @@ I am an Android Developer with experience in building real-world mobile applicat
 
 ## 📊 GitHub Stats
 
-![Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzkaShahid&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzkaShahid&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link  
+- LinkedIn: https://www.linkedin.com/in/azka-shahid-519ab52a8/
 - GitHub: https://github.com/AzkaShahid  
 
 ---
