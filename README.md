@@ -1,34 +1,57 @@
-# Hi, I'm Azka Shahid 👋
+# 👋 Hi, I'm Azka Shahid
 
-### 📱 Android Developer | 🤖 AI & AR Enthusiast
+## 📱 Android Developer | 🤖 AI & AR Enthusiast | 🚀 Mobile Systems Builder
 
-I am an Android Developer with experience in building real-world mobile applications using Kotlin. I enjoy working on innovative projects involving Artificial Intelligence, Augmented Reality, and smart systems.
-
----
-
-## 🚀 Featured Projects
-
-- 🧭 **AR Vision Navigator**  
-  Augmented Reality-based navigation system with real-time directional overlays  
-
-- 🤖 **Navigation Scanner**  
-  AI-powered navigation assistant using OpenAI API  
-
-- 🚦 **Traffic Sensor App**  
-  IoT-based traffic monitoring system using sensors and Android integration  
-
-- 🌧️ **Rain Predictor**  
-  Weather prediction app using rule-based logic and input validation  
+I am an Android Developer focused on building real-world mobile applications using Kotlin, AI integration, and Augmented Reality.  
+I enjoy solving practical problems through smart mobile solutions and modern technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-- **Languages:** Kotlin, Java  
-- **Frameworks:** Android SDK  
-- **Architecture:** MVVM  
-- **Tools:** Git, Firebase, Retrofit  
-- **Other:** REST APIs, JSON, UI/UX Design  
+- 📱 Android Developer with hands-on project experience  
+- 🤖 Exploring AI integration in mobile applications (OpenAI APIs)  
+- 🧭 Working on AR-based navigation systems  
+- 🌍 Passionate about building real-world impactful apps  
+- 🎯 Goal: Work in international tech companies and scalable mobile teams  
+
+---
+
+## 🧠 Tech Stack
+
+**Languages:**  
+Kotlin, Java  
+
+**Android Development:**  
+Android SDK, MVVM Architecture, XML UI  
+
+**APIs & Backend:**  
+REST APIs, Firebase, OpenAI API, Retrofit  
+
+**Tools & Concepts:**  
+Git, GitHub, JSON Parsing, Location Services, ARCore  
+
+---
+
+## 🏆 Featured Projects
+
+### 🧭 AR Vision Navigator
+Augmented Reality navigation system with real-time direction overlays on camera view.
+
+### 🤖 Navigation Scanner (AI Project)
+AI-powered navigation assistant using OpenAI API for intelligent route analysis.
+
+### 🌧️ Rain Predictor
+Weather prediction app based on rule-based logic and input validation system.
+
+### 🚦 Traffic Sensor App
+IoT-based Android application integrating sensors (PIR + Arduino) for traffic evaluation.
+
+### 🗺️ QR Location Navigator
+QR-based system that scans location coordinates and displays them on Google Maps.
+
+### 🎯 Career Path Navigator
+Smart career recommendation system based on user interests and structured categories.
 
 ---
 
@@ -38,15 +61,33 @@ I am an Android Developer with experience in building real-world mobile applicat
 
 ---
 
-## 🌍 Connect With Me
+## 🌟 What Makes My Work Unique
 
-- LinkedIn: https://www.linkedin.com/in/azka-shahid-519ab52a8/
-- GitHub: https://github.com/AzkaShahid  
+- 🧭 AR-based real-world navigation systems  
+- 🤖 AI integration in mobile applications  
+- 📡 IoT + Android system development  
+- 📍 Location-based smart applications  
+- 🧠 Focus on practical, real-world problem solving  
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Goals
 
-- Contribute to innovative mobile applications  
-- Work with international teams  
-- Grow as an Android Developer in AI-driven solutions  
+- 🚀 Get opportunities in international Android development roles  
+- 🤖 Improve AI-powered mobile applications  
+- 🧭 Build advanced AR navigation systems  
+- 🌍 Contribute to scalable production-level mobile apps  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/AzkaShahid  
+- LinkedIn: https://www.linkedin.com/in/azka-shahid-519ab52a8/
+- Email: azkashahidbwp@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that connect **real-world environments with digital intelligence** using mobile technology.
