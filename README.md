@@ -14,11 +14,11 @@ I am an Android Developer with experience in building real-world mobile applicat
 - 🤖 **Navigation Scanner**  
   AI-powered navigation assistant using OpenAI API  
 
-- 🌧️ **Rain Predictor**  
-  Weather prediction app using rule-based logic and input validation  
-
 - 🚦 **Traffic Sensor App**  
   IoT-based traffic monitoring system using sensors and Android integration  
+
+- 🌧️ **Rain Predictor**  
+  Weather prediction app using rule-based logic and input validation  
 
 ---
 
