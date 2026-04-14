@@ -1,6 +1,6 @@
 #  Hi, I'm Azka Shahid
 
-##  Android Developer | 🤖 AI & AR Enthusiast | 🚀 Mobile Systems Builder
+##  Android Developer |  AI & AR Enthusiast |  Mobile Systems Builder
 
 I am an Android Developer focused on building real-world mobile applications using Kotlin, AI integration, and Augmented Reality.  
 I enjoy solving practical problems through smart mobile solutions and modern technologies.
